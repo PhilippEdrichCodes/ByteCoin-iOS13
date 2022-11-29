@@ -64,7 +64,6 @@
 				ADA8AC1D2329370700626376 /* Controller */,
 				ADA8AC1C232936FE00626376 /* View */,
 				ADA8AC112329367300626376 /* Assets.xcassets */,
-				ADA8AC132329367300626376 /* LaunchScreen.storyboard */,
 				ADA8AC162329367300626376 /* Info.plist */,
 			);
 			path = ByteCoin;
@@ -74,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				ADA8AC0E2329367100626376 /* Main.storyboard */,
+				ADA8AC132329367300626376 /* LaunchScreen.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
